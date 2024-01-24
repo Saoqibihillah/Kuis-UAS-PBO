@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Apotek
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=scanner
+comment2.target=java.lang.String\ inputNama(java.util.Scanner)
+numComments=3

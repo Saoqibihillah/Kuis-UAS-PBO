@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Flu
+comment1.params=
+comment1.target=void\ inputNoTelp()
+comment2.params=
+comment2.target=void\ beliObatFlu()
+comment3.params=pilihan\ qty
+comment3.target=void\ tambahBelanjaan(int,\ int)
+comment4.params=
+comment4.target=void\ tampilkanStruk()
+numComments=5
